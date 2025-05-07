@@ -1,4 +1,3 @@
-# ISBA_Capstone
 # GitHub README – Wyndo Cloud Optimization Project
 
 ## Project Title
