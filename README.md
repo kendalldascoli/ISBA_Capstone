@@ -1,4 +1,4 @@
-# GitHub README – Wyndo Cloud Optimization Project
+# Wyndo Cloud Optimization Project
 
 ## Project Title
 **QASECR for Wyndo**  
